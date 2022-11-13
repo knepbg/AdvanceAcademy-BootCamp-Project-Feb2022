@@ -1,0 +1,13 @@
+{
+  "title": "Standard Double Room",
+  "image": "https://image.jpg",
+  "images": [
+    "https://image_1.jpg"
+  ],
+  "description": "The capacity of the room is for two adults and one child up to 3 years old.",
+  "facilities": "seating area, flat screen TV, toiletries, wired and wireless internet connection, comfortable mattress, minibar, safe, hairdryer, terrace, bathrobe and slippers for SPA zone",
+  "area": 24,
+  "people": 2,
+  "price": 220,
+  "count": 7
+}

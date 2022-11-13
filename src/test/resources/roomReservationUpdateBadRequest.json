@@ -1,0 +1,10 @@
+{
+  "user": 3,
+  "start_date": "2023-04-10T11:10:23.497467Z",
+  "end_date": "2023-04-12T11:10:23.497467Z",
+  "adults": 100,
+  "kids": 0,
+  "type_bed": "SEPARATE",
+  "type_view": "GARDEN",
+  "status": "ACCEPTED"
+}
